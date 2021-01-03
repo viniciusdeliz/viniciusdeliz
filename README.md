@@ -1,16 +1,31 @@
-### Hi there 👋
+<img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/laptop_git.svg" min-width="320px" max-width="396px" width="396px" align="right" alt="Computador Vinicius de Liz">
 
-<!--
-**viniciusdeliz/viniciusdeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hello! I'm Vinicius, a <strong>Multimedia Artist</strong> and <strong>Content Creator</strong> based in São Paulo.<br>
+  I am currently studying Multimedia Production at FIAM-FAAM | FMU.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🤹 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Vue, Boostrap and UI/UX development.</strong>
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🧰 Tools: <strong>Visual Studio Code, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Netlify and Git.</strong>
+</p>
+
+<p align="left">
+  📱 If you want to develop a solution with me (or talk about the weather), don't hesitate to follow me and send me a message:
+</p>
+
+<p align="left">
+  <a href="mailto:tu@viniciusdeliz.com" alt="Email">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/561/561127.svg" width="32px" max-width="32px"/>  
+  </a>
+  <a href="https://www.instagram.com/viniciusdeliz/" alt="Instagram">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" width="32px" max-width="32px"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusdeliz" alt="Linkedin">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="32px" max-width="32px" />
+  </a>
+</p>  
+
