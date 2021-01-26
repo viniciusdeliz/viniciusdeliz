@@ -1,7 +1,7 @@
 <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/laptop_git.svg" min-width="320px" max-width="396px" width="396px" align="right" alt="Computador Vinicius de Liz">
 
 <p align="left"> 
-  Hello! I'm Vinicius, a <strong>Multimedia Artist</strong> and <strong>Content Creator</strong> based in São Paulo.<br>
+  Hello! I'm Vinicius, a <strong>Multimedia Artist</strong> and <strong>Content Creator</strong> based in São Paulo.
   I am currently studying Multimedia Production at FIAM-FAAM | FMU.
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📱 If you want to develop a solution with me (or talk about the weather), don't hesitate to follow me and send me a message:
+  📱 If you want to develop a solution (or talk about the weather), check the links below and send me a message:
 </p>
 
 <p align="left">
