@@ -16,7 +16,7 @@
 <p align="left">
   📱 If you want to develop a solution (or talk about the weather), check the links below and send me a message:
 </p>
-
+<br/>
 <p align="left">
   <a href="mailto:tu@viniciusdeliz.com" alt="Email">
     <img src="https://www.flaticon.com/svg/static/icons/svg/561/561127.svg" width="32px" max-width="32px"/>  
