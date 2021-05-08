@@ -29,5 +29,5 @@
   </a>
 </p>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=viniciusdeliz&color=red">
+<img src="https://komarev.com/ghpvc/?username=viniciusdeliz&color=fd848e">
 
