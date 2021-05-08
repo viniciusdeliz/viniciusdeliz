@@ -27,5 +27,7 @@
   <a href="https://www.linkedin.com/in/viniciusdeliz" alt="Linkedin">
     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="32px" max-width="32px" />
   </a>
-</p>  
+</p>
+<br/>
+![](https://komarev.com/ghpvc/?username=viniciusdeliz)
 
