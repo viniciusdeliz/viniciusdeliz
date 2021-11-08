@@ -19,13 +19,13 @@
 <br/>
 <p align="left">
   <a href="mailto:tu@viniciusdeliz.com" alt="Email">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/561/561127.svg" width="32px" max-width="32px"/>  
+    <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/mail-star-line.svg" width="32px" max-width="32px"/>  
   </a>
   <a href="https://www.instagram.com/viniciusdeliz/" alt="Instagram">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" width="32px" max-width="32px"/>  
+    <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/instagram-line.svg" width="32px" max-width="32px"/>  
   </a>
   <a href="https://www.linkedin.com/in/viniciusdeliz" alt="Linkedin">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="32px" max-width="32px" />
+    <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/linkedin-fill.svg" width="32px" max-width="32px" />
   </a>
 </p>
 <br/>
