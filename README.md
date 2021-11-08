@@ -1,20 +1,19 @@
 <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/laptop_git.svg" min-width="320px" max-width="396px" width="396px" align="right" alt="Computador Vinicius de Liz">
 
 <p align="left"> 
-  Hello! I'm Vinicius, a <strong>Multimedia Artist</strong> and <strong>Content Creator</strong> based in São Paulo.
-  I am currently studying Multimedia Production at FIAM-FAAM | FMU.
+  Hello! My name is Vinicius, but you can call me Vini. I am a <strong><i>Content Creator</i> and </strong><strong><i>Multimedia Artist</i></strong> based in São Paulo. I've more than eight years of experience working as a software developer.
 </p>
 
 <p align="left">
-  🤹 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Vue, Boostrap and UI/UX development.</strong>
+  👨‍💻 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Vue, Boostrap and UI/UX development.</strong>
 </p> 
 
 <p align="left">
-  🧰 Tools: <strong>Visual Studio Code, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Netlify and Git.</strong>
+  🧰 Toolset: <strong>Visual Studio Code, Adobe XD, Figma, Git, Adobe Photoshop, Adobe Illustrator, Netlify.</strong>
 </p>
 
 <p align="left">
-  📱 If you want to develop a solution (or talk about the weather), check the links below and send me a message:
+  📱 Contact: If you want to develop a solution (or talk about the weather), check the links in the icons below and send me a message!
 </p>
 <br/>
 <p align="left">
