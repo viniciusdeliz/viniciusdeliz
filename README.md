@@ -1,15 +1,15 @@
 <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/laptop_git.svg" min-width="320px" max-width="396px" width="396px" align="right" alt="Computador Vinicius de Liz">
 
 <p align="left"> 
-  Hello! My name is Vinicius, but you can call me Vini. I am a <strong><i>Software Developer</i> and </strong><strong><i>Multimedia Artist</i></strong> based in São Paulo. I've more than ten years of experience working as a software developer.
+  Oi! My name is Vinicius, but you can call me Vini. I am a <strong>Software Developer</strong> and <strong>Multimedia Artist</strong> based in São Paulo. I've more than ten years of professional experience.
 </p>
 
 <p align="left">
-  👨‍💻 Skills: <strong>HTML5, CSS3, JavaScript, TypeScript, Sass, Vue, and UI/UX development.</strong>
+  👨‍💻 Skills: <strong>HTML5, CSS3, JavaScript, TypeScript, Sass, Vue, UI/UX development.</strong>
 </p> 
 
 <p align="left">
-  🧰 Toolset: <strong>Visual Studio Code, Figma, Git, Adobe Photoshop, Netlify.</strong>
+  🧰 Toolset: <strong>Visual Studio Code, Figma, Git, Photopea, Netlify.</strong>
 </p>
 
 <p align="left">
