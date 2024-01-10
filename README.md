@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  📱 Contact: If you want to develop a solution (or talk about the weather), check the links in the icons below and send me a message!
+  📱 Contact: If you want to develop a solution (or talk about the weather), check the links below and send me a message!
 </p>
 <br/>
 <p align="left">
