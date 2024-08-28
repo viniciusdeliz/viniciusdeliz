@@ -1,15 +1,19 @@
 <img src="https://github.com/viniciusdeliz/viniciusdeliz/blob/main/laptop_git.svg" min-width="320px" max-width="396px" width="396px" align="right" alt="Computador Vinicius de Liz">
 
 <p align="left"> 
-  Hey! My name is Vinicius, you can call me Vini. I am a <strong>Software Developer</strong> and <strong>Multimedia Artist</strong> based in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a>. I've more than ten years of professional experience. I love to create functional and meaningful experiences for a range of media.
+  Hey! My name is Vinicius, you can call me Vini. I am a <strong>Software Developer</strong> and <strong>Multimedia Artist</strong> based in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a>. I've more than ten years of professional experience. I love to create functional and meaningful experiences for a range of media and devices.
 </p>
 
 <p align="left">
-  👨‍💻 Love to work using: <strong>HTML5, CSS3, JavaScript, TypeScript, Sass, Node.js, Vue, UI/UX development.</strong>
+  👨‍💻 Love to work with: <strong>HTML5, CSS3, JavaScript, TypeScript, Sass, Node.js, Vue, UI/UX development.</strong>
 </p> 
 
 <p align="left">
   🧰 Toolset: <strong>Visual Studio Code, Figma, Netlify, GitHub, Photopea. </strong>
+</p>
+
+<p align="left">
+  👥 Official collaborator of: <a href="https://pt.vuejs.org/" target="_blank">Vue.js docs</a>, <a href="https://docs.astro.build/pt-br/" target="_blank">Astro docs</a>, <a href="https://starlight.astro.build/pt-br" target="_blank">Starlight docs</a> and more!
 </p>
 
 <p align="left">
