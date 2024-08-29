@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  👥 Official collaborator of: <a href="https://pt.vuejs.org/" target="_blank">Vue.js docs</a>, <a href="https://docs.astro.build/pt-br/" target="_blank">Astro docs</a>, <a href="https://starlight.astro.build/pt-br" target="_blank">Starlight docs</a> and more!
+  👥 Official collaborator of: <a href="https://pt.vuejs.org/" target="_blank">Vue.js docs</a>, <a href="https://docs.astro.build/pt-br/" target="_blank">Astro docs</a>, <a href="https://starlight.astro.build/pt-br" target="_blank">Starlight docs</a>, <a href="https://vitepress.dev/pt/" target="_blank">VitePress docs</a>, and more!
 </p>
 
 <p align="left">
-  📱 Contact: If you want to develop a solution (or talk about the weather) check the links below and send me a message!
+  📱 Contact: If you want to develop a solution (or talk about the weather), check the links below and send me a message!
 </p>
 <br/>
 <p align="left">
